@@ -1,0 +1,20 @@
+{
+  "name": "ircv3",
+  "version": "0.0.0",
+  "description": "An IRCv3-aware IRC client.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ericnorris/ircv3.git"
+  },
+  "keywords": [
+    "irc",
+    "ircv3",
+    "client",
+    "bot"
+  ],
+  "author": "Eric Norris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ericnorris/ircv3/issues"
+  }
+}
